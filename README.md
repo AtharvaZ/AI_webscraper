@@ -63,17 +63,6 @@ streamlit run main.py
 2. **Description**: "Extract all article titles and their publication dates"
 3. **Result**: The AI will identify and return only the article titles and dates from the scraped content
 
-## Project Structure
-
-```
-ai-web-scraper/
-├── main.py              # Streamlit application entry point
-├── scrape.py            # Web scraping functions with Selenium
-├── parse.py             # AI parsing logic with Ollama
-├── requirements.txt     # Python dependencies
-├── chromedriver         # ChromeDriver executable (you need to download this)
-└── README.md           # This file
-```
 
 ## File Descriptions
 
