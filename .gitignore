@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+.env.bak/
+*.env
+
+# VSCode or JetBrains IDE
+.vscode/
+.idea/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Test coverage
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Streamlit cache
+.streamlit/
+
+# Pylint and mypy
+.mypy_cache/
+pylint-report.txt
