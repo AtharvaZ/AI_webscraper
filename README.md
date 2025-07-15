@@ -1,4 +1,4 @@
-# AI Web Scraper
+<h1>AI based Web Scraper</h1>
 
 An intelligent web scraping tool that combines dynamic content extraction with AI-powered data parsing. This application uses Selenium for dynamic content loading and Ollama's LLaMA model for intelligent information extraction based on natural language descriptions.
 
